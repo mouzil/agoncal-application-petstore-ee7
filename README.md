@@ -14,7 +14,7 @@ Do you remember the good old Java [Petstore](http://java.sun.com/developer/relea
 
 What you have here is another Petstore-like application but using [Java EE 7](http://jcp.org/en/jsr/detail?id=342) and all its goodies (CDI, EJB Lite, REST interface). It is based on the Petstore I developed for my [Java EE 5 book](http://www.eyrolles.com/Informatique/Livre/java-ee-5-9782212126587) (sorry, it's written in French). I've updated it based on my [Java EE 6 book](http://www.amazon.com/gp/product/143022889X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143022889X&linkCode=as2&tag=antgonblo-20), and now I'm updating it again so it uses some new features of Java EE 7 described on my [Java EE 7 book](http://www.amazon.com/gp/product/143024626X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143024626X&linkCode=as2&tag=antgonblo-20). The goals of this sample is to :
 
-* use Java EE 7 and just Java EE 7 : no external framework or dependency (except web frameworks or logging APIs)
+* use Java EE 7 and just Java EE 7 : no external framework or dependency (except web frameworks or logging APIs).
 * make it simple : no complex business algorithm, the point is to bring Java EE 7 technologies together to create an eCommerce website
 
 If you want to use a different web interface, external frameworks, add some sexy alternative JVM language… feel free to fork the code. But the goal of this EE 7 Petstore is to remain simple and to stick to Java EE 7.
